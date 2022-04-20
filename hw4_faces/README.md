@@ -1,4 +1,4 @@
-This folder contains data for question 3.2 in homework 4. There are four files in the dataset:
+This folder contains data for HW4. There are four files in the dataset:
 
 - train data:
 
